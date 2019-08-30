@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmodded.FFA", "Overmodded.FFA.csproj", "{9E0CF2CC-D120-458D-8C15-1CC054A3D999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0CF2CC-D120-458D-8C15-1CC054A3D999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0CF2CC-D120-458D-8C15-1CC054A3D999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0CF2CC-D120-458D-8C15-1CC054A3D999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0CF2CC-D120-458D-8C15-1CC054A3D999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C325D7CF-69FD-490E-A489-692B272D5AED}
+	EndGlobalSection
+EndGlobal
