@@ -22,8 +22,8 @@ bld/
 .vs/
 
 # E
-*.csproj
-*.sln
+/*.csproj
+/*.sln
 *.tfdat
 *.manifest
 *.DotSettings

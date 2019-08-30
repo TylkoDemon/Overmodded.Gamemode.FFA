@@ -1,0 +1,15 @@
+{
+    "Include" : true,
+
+    "ModName": "gamemode_ffa",
+    "ModSourceDirectory" : "src",
+    "ModEntryPoint" : "Overmodded.Gamemode.FFA.FFAModEntry",
+
+    "CompilationOrder": 2,
+
+    "CustomLocaleDirectory" : "Locale",
+    "CustomLocaleFiles" : [],
+
+    "SLUICanvasIndex" : 2,
+    "SLUIDirectory" : "SLUI"
+  }
